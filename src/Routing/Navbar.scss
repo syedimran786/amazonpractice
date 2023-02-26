@@ -1,0 +1,20 @@
+nav
+{
+    background-color: black;
+    padding: 20px;
+    a
+    {
+        text-decoration: none;
+        margin-left: 200px;
+        color: white;
+    }
+    .active
+    {
+        color: green;
+    }
+    .notactive
+    {
+        color: red;
+    }
+   
+}
